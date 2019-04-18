@@ -11,6 +11,24 @@ p{
 }
 
 body{
+    background-color: #ffffff;
+    width: 960px;
+    height: 960px;
+    margin:
+    color:
+    padding:
+    border-style:
+    border-width:
+    border-color: #cccccc;
+}
+
+#box{
 
 }
 
+div{
+    width: 300px;
+    border: 15px; 
+    padding: 50px;
+    margin: 20px;
+}
